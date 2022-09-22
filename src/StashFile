@@ -1,1 +1,7 @@
 some text...
+
+Команды которые использовались с этим файлом:
+1) git stash save Stash_File_Work
+2) git stash list(проверял индекс стеша)
+3) git stash drop 0 (удалил файл "Stash File")
+4) Создал обратно этот файл
